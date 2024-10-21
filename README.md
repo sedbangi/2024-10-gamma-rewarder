@@ -8,10 +8,3 @@
 # Q&A
 
 # Audit scope
-
-
-[GammaRewarder @ 03149b554947d12639161a33d5b926fda9858772](https://github.com/GammaStrategies/GammaRewarder/tree/03149b554947d12639161a33d5b926fda9858772)
-- [GammaRewarder/contracts/GammaRewarder.sol](GammaRewarder/contracts/GammaRewarder.sol)
-- [GammaRewarder/contracts/brevis/lib/Lib.sol](GammaRewarder/contracts/brevis/lib/Lib.sol)
-
-
